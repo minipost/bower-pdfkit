@@ -1,5 +1,5 @@
 {
-  "name": "bower pdfa-kit",
+  "name": "bower-pdfa-kit",
   "homepage": "https://github.com/minipost/bower-pdfkit",
   "description": "test of pdfkit fork from https://github.com/chab/pdfkit/tree/PDF_A_3",
   "main": "pdfkit.js",
