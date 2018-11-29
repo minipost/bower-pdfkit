@@ -1,0 +1,21 @@
+{
+  "name": "bower pdfa-kit",
+  "homepage": "https://github.com/minipost/bower-pdfkit",
+  "description": "test of pdfkit fork from https://github.com/chab/pdfkit/tree/PDF_A_3",
+  "main": "pdfkit.js",
+  "keywords": [
+    "pdfkit"
+  ],
+  "authors": [
+    "Jonas Karlsson"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
